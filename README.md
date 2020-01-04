@@ -1,6 +1,8 @@
 # Porn_Matrix
 This is a Python 3 server application for viewing porn streams in a grid on your browser. It loads videos based on provided search parameters. If no search terms are provided, it chooses from a list of my favorite porn stars. :)
 
+[donate if you enjoy my work :)](https://paypal.me/deracoslon)
+
 # Run / Build
 Intall prereqs
 
